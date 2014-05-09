@@ -32,8 +32,9 @@ with_jquery(function($){
 					console.log(data);
 					if (data.Success == true)
 					{
-						$(".ot10").html("success")
-						$(".close-question-link").html("close (" + data.Count + ")")
+						$(".ot10").html("success");
+						$(".close-question-link").html("close (" + data.Count + ")");
+						$(".ot10").remove();
 					}
 				}
 			);
