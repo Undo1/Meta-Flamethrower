@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name OT10 fast!
 // @version 1.0.1
-// @author Undo (with help from @ManishEarth)
+// @author Undo
 // @description To close meta things
 // @license GNU GPL v3 (http://www.gnu.org/copyleft/gpl.html) 
 // @include http://meta.stackexchange.com/*
